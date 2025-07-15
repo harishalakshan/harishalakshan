@@ -46,8 +46,8 @@
 
 ---
 
-💡 Fun Fact:  
-```yaml
+💡 Fun Fact: 
+<p align="center"> 
 I love automating tasks, building scalable systems, and solving real-world problems with code.
 " target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
 <a href="mailto:unicornprofessionalbay@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
