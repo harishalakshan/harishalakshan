@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate full-stack developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm L.P.Harisha Lakshan Warnakulasuriya and Called me Hariya 👋!/h1>
+<h3 align="center">A passionate full-stack developer from Malabe,SriLanka</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Cloud+Solutions+Architect;IoT+&+AI+Enthusiast;Always+Learning+New+Tech!" />
