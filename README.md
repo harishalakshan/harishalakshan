@@ -55,9 +55,13 @@
 <!-- GitHub Enhanced Stats Section -->
 <h2 align="center">📊 GitHub Activity & Insights</h2>
 
+<!-- GitHub Enhanced Stats Section -->
+<h2 align="center">📊 GitHub Activity & Insights</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishalakshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Overall%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishalakshan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streaks" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com?user=harishalakshan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streaks" />
 </p>
 
 <p align="center">
@@ -71,8 +75,9 @@
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishalakshan&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harishalakshan&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1" width="98%" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
