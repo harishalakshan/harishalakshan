@@ -57,9 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishalakshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Overall%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
-  <p align="center">
-  <img src="https://github.com/harishalakshan/harishalakshan/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph Animation" />
-</p>
 
 </p>
 
