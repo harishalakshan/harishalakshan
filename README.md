@@ -52,15 +52,26 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📈 GitHub Stats:
+<!-- GitHub Enhanced Stats Section -->
+<h2 align="center">📊 GitHub Activity & Insights</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishalakshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishalakshan&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harishalakshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Overall%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishalakshan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streaks" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishalakshan&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishalakshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Top%20Languages%20Used" width="60%" alt="Top Languages" />
+</p>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishalakshan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="GitHub Contribution Graph" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harishalakshan&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
