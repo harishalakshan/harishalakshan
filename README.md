@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm L.P.Harisha Lakshan Warnakulasuriya and Called me Hariya 👋!/h1>
+<h1 align="center">Hi 👋, I'm L.P.Harisha Lakshan Warnakulasuriya and Called me Hariya 👋!</h1>
 <h3 align="center">A passionate full-stack developer from Malabe,SriLanka</h3>
 
 <p align="center">
