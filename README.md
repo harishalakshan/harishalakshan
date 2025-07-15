@@ -57,8 +57,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishalakshan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Overall%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.mnrv.me?user=harishalakshan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streaks" />
+  <p align="center">
+  <img src="https://github.com/harishalakshan/harishalakshan/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph Animation" />
+</p>
 
 </p>
 
